@@ -11,6 +11,6 @@ function multiple(a: number, b: number): number {
   return a * b;
 }
 
-function divide(a: number, b: number): number {
+function divide_free(a: number, b: number): number {
   return a / b;
 }
